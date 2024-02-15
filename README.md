@@ -18,11 +18,11 @@ metrics.pkl and metrics_interconnections.pkl contain the saved data from the met
 **Overparameterisation**
 Overparameterisation.ipynb - This notebook contains the code required to analyse the MSE as a function of number of parameters
 
-**Meta-Learning**
+**MetaLearning**
 Meta_Sines_Times.ipynb - This notebook contains the codes to run the Meta-Learning
 
-**Benchmarks**
-Benchmarks.ipynb - This notebook contains the codes necessary to run the benchmarking tasks. Specifically, one can define ESNs, MLPs and neural ODE's
+**Benchmarking_softwareModels**
+Benchmarking.ipynb - This notebook contains the codes necessary to run the benchmarking tasks. Specifically, one can define ESNs, MLPs and neural ODE's
 
 **Data** 
 Data folder contains all of the raw data. The data is seperated by task and network architecture. The excel spreadsheet has more details on which datasets form which architecture.
