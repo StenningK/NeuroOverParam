@@ -1,5 +1,5 @@
 # NeuroOverParam
-Repository for the codes used the Neuromorphic Overparameterisation paper
+Repository for the feature selection and overparameterisation analysis algorithms used in Neuromorphic Overparameterisation, Generalisation and Few-Shot Learning in Multilayer Physical Neural Networks published in Nature Communications.
 
 Description of codes and files:
 
