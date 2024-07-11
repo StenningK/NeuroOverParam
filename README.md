@@ -29,4 +29,4 @@ Data folder contains all of the raw data. The data is seperated by task and netw
 The folder is set up such that one can run the analysis files on a specific folder to evaluate the performance of a given network.
 Data_results.zip - This contains the raw data and intermediate predictions and results for the feature selection and overparameterisation files. For some cases, one will need to download and extract this folder to reproduce the plots from the manuscript.
 
-If there are any questions, issues or concerns with the code, please contact Kilian Stenning using k.stenning18@imperial.ac.uk
+If there are any questions, issues or concerns with the code, please contact Kilian Stenning - k.stenning18@imperial.ac.uk
